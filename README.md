@@ -1,8 +1,6 @@
 # CompanyApp-MongoDB
 
-To run the project, clone the repository and follow below steps:
+App focused on various testing.
+To start, clone the repository and follow below steps:
 ### `yarn install`
-### `yarn start`
-
-To run tests, run:
 ### `yarn test`
